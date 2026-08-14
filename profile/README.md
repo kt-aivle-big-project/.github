@@ -140,7 +140,7 @@
 
 # 🔑 ERD
 
-<!-- TODO: ERD 이미지 -->
+<img width="1511" height="906" alt="디지털 트윈 AI 창고 관제 시스템 pptx" src="https://github.com/user-attachments/assets/99dc5052-fe25-47ff-935d-f9e5789a574b" />
 
 <br/>
 
