@@ -134,7 +134,7 @@
 
 # 🔀 서비스 플로우
 
-<img width="526" height="226" alt="image" src="https://github.com/user-attachments/assets/f60dfc2c-b2e0-4063-94b7-5a859ef22fff" />
+<img width="1054" height="452" alt="image" src="https://github.com/user-attachments/assets/f60dfc2c-b2e0-4063-94b7-5a859ef22fff" />
 
 <br/>
 
