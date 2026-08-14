@@ -1,4 +1,4 @@
-# <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/8da08cf5-b21d-44ae-b8e7-2a8f5f97d263" /> LARO 프로젝트 소개
+# <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/8da08cf5-b21d-44ae-b8e7-2a8f5f97d263" /> LARO 프로젝트 소개
 
 "LARO는 창고 로봇을 가상으로 운영해보고 최적 운영안을 찾는 디지털 트윈 시뮬레이터입니다."
 
