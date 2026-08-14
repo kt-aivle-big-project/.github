@@ -15,6 +15,25 @@
 ## 구성원
  
 <!-- TODO: 아래 GITHUB_ID 자리를 각자 깃허브 아이디로 교체하면 프로필 사진이 자동으로 뜹니다 -->
+
+### AI
+ 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wjdgk0710-collab">
+        <img src="https://github.com/wjdgk0710-collab.png" width="100" /><br/>
+        <b>김정하</b>
+      </a>
+     <td align="center">
+      <a href="https://github.com/J2-J2">
+        <img src="https://github.com/J2-J2.png" width="100" /><br/>
+        <b>이정재</b>
+      </a>
+    </td>
+    </td>
+  </tr>
+</table>
  
 ### Backend
  
@@ -54,24 +73,6 @@
   </tr>
 </table>
 
-### AI
- 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/wjdgk0710-collab">
-        <img src="https://github.com/wjdgk0710-collab.png" width="100" /><br/>
-        <b>김정하</b>
-      </a>
-     <td align="center">
-      <a href="https://github.com/J2-J2">
-        <img src="https://github.com/J2-J2.png" width="100" /><br/>
-        <b>이정재</b>
-      </a>
-    </td>
-    </td>
-  </tr>
-</table>
 ## 🏢 개발 환경
 
 - 개발도구: IntelliJ IDEA · VS Code
