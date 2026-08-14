@@ -42,6 +42,7 @@
     </td>
   </tr>
 </table>
+
 ### Frontend
  
 <table>
@@ -54,6 +55,7 @@
     </td>
   </tr>
 </table>
+
 ### AI
  
 <table>
