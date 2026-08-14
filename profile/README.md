@@ -14,20 +14,64 @@
 
 ## 구성원
 
-<!-- TODO: 각자 깃허브 주소로 링크 -->
-
-**Backend**
-
-- [김완수](https://github.com/) · [윤빈](https://github.com/Yoon-Bin99) · [박병준](https://github.com/)
-
-**Frontend**
-
-- [](https://github.com/)
-
-**AI**
-
-- [](https://github.com/)
-
+## 구성원
+ 
+<!-- TODO: 아래 GITHUB_ID 자리를 각자 깃허브 아이디로 교체하면 프로필 사진이 자동으로 뜹니다 -->
+ 
+### Backend
+ 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GITHUB_ID">
+        <img src="https://github.com/GITHUB_ID.png" width="100" /><br/>
+        <b>김완수</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yoon-Bin99">
+        <img src="https://github.com/Yoon-Bin99.png" width="100" /><br/>
+        <b>윤빈</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GITHUB_ID">
+        <img src="https://github.com/GITHUB_ID.png" width="100" /><br/>
+        <b>박병준</b>
+      </a>
+    </td>
+  </tr>
+</table>
+### Frontend
+ 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GITHUB_ID">
+        <img src="https://github.com/GITHUB_ID.png" width="100" /><br/>
+        <b>심유리</b>
+      </a>
+    </td>
+  </tr>
+</table>
+### AI
+ 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GITHUB_ID">
+        <img src="https://github.com/GITHUB_ID.png" width="100" /><br/>
+        <b>김정하</b>
+      </a>
+     <td align="center">
+      <a href="https://github.com/GITHUB_ID">
+        <img src="https://github.com/GITHUB_ID.png" width="100" /><br/>
+        <b>이정재</b>
+      </a>
+    </td>
+    </td>
+  </tr>
+</table>
 ## 🏢 개발 환경
 
 - 개발도구: IntelliJ IDEA · VS Code
