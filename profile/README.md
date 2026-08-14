@@ -134,7 +134,6 @@
 
 # 🔀 서비스 플로우
 
-<!-- TODO: 서비스 플로우 이미지 -->
 <img width="526" height="226" alt="image" src="https://github.com/user-attachments/assets/f60dfc2c-b2e0-4063-94b7-5a859ef22fff" />
 
 <br/>
