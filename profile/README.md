@@ -23,8 +23,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/GITHUB_ID">
-        <img src="https://github.com/GITHUB_ID.png" width="100" /><br/>
+      <a href="https://github.com/wan-su-2020">
+        <img src="https://github.com/wan-su-2020.png" width="100" /><br/>
         <b>김완수</b>
       </a>
     </td>
@@ -35,8 +35,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/GITHUB_ID">
-        <img src="https://github.com/GITHUB_ID.png" width="100" /><br/>
+      <a href="https://github.com/pbjun2000">
+        <img src="https://github.com/pbjun2000.png" width="100" /><br/>
         <b>박병준</b>
       </a>
     </td>
@@ -47,8 +47,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/GITHUB_ID">
-        <img src="https://github.com/GITHUB_ID.png" width="100" /><br/>
+      <a href="https://github.com/ShimYuri">
+        <img src="https://github.com/ShimYuri.png" width="100" /><br/>
         <b>심유리</b>
       </a>
     </td>
@@ -59,13 +59,13 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/GITHUB_ID">
-        <img src="https://github.com/GITHUB_ID.png" width="100" /><br/>
+      <a href="https://github.com/wjdgk0710-collab">
+        <img src="https://github.com/wjdgk0710-collab.png" width="100" /><br/>
         <b>김정하</b>
       </a>
      <td align="center">
-      <a href="https://github.com/GITHUB_ID">
-        <img src="https://github.com/GITHUB_ID.png" width="100" /><br/>
+      <a href="https://github.com/J2-J2">
+        <img src="https://github.com/J2-J2.png" width="100" /><br/>
         <b>이정재</b>
       </a>
     </td>
