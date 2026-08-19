@@ -15,8 +15,6 @@
 ## 구성원
  
 <!-- TODO: 아래 GITHUB_ID 자리를 각자 깃허브 아이디로 교체하면 프로필 사진이 자동으로 뜹니다 -->
-
-### AI
  
 <table>
   <tr>
@@ -30,16 +28,8 @@
         <img src="https://github.com/J2-J2.png" width="100" /><br/>
         <b>이정재</b>
       </a>
-    </td>
-    </td>
-  </tr>
-</table>
- 
-### Backend
- 
-<table>
-  <tr>
-    <td align="center">
+     </td>
+   <td align="center">
       <a href="https://github.com/wan-su-2020">
         <img src="https://github.com/wan-su-2020.png" width="100" /><br/>
         <b>김완수</b>
@@ -57,14 +47,7 @@
         <b>윤빈</b>
       </a>
     </td>
-  </tr>
-</table>
-
-### Frontend
- 
-<table>
-  <tr>
-    <td align="center">
+   <td align="center">
       <a href="https://github.com/ShimYuri">
         <img src="https://github.com/ShimYuri.png" width="100" /><br/>
         <b>심유리</b>
@@ -72,6 +55,7 @@
     </td>
   </tr>
 </table>
+ 
 
 ## 🏢 개발 환경
 
