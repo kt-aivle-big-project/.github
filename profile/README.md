@@ -30,21 +30,21 @@
       </a>
      </td>
    <td align="center">
-      <a href="https://github.com/wan-su-2020">
-        <img src="https://github.com/wan-su-2020.png" width="100" /><br/>
-        <b>김완수</b>
+      <a href="https://github.com/Yoon-Bin99">
+        <img src="https://github.com/Yoon-Bin99.png" width="100" /><br/>
+        <b>윤빈</b>
       </a>
     </td>
-    <td align="center">
+   <td align="center">
       <a href="https://github.com/pbjun2000">
         <img src="https://github.com/pbjun2000.png" width="100" /><br/>
         <b>박병준</b>
       </a>
     </td>
    <td align="center">
-      <a href="https://github.com/Yoon-Bin99">
-        <img src="https://github.com/Yoon-Bin99.png" width="100" /><br/>
-        <b>윤빈</b>
+      <a href="https://github.com/wan-su-2020">
+        <img src="https://github.com/wan-su-2020.png" width="100" /><br/>
+        <b>김완수</b>
       </a>
     </td>
    <td align="center">
