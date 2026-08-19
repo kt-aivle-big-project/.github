@@ -178,6 +178,17 @@
 ## 김완수
 
 
+ ### 개발 환경 및 공통 구조
+
+  - Docker Compose 기반 개발 환경 설정 및 Local·Docker 실행 설정 분리
+  - Swagger 기반 API 문서화 및 JWT 인증 테스트 환경 구성
+  - 비즈니스 예외 코드와 공통 오류 응답을 사용하는 전역 예외 처리 구조 설계
+
+### 인증 및 사용자 관리
+
+  - Spring Security · JWT 기반 회원가입 및 로그인 구현
+  - Redis 기반 Refresh Token Rotation 및 이메일 인증 구현
+  - 프로필 수정 · 비밀번호 변경 · 회원 탈퇴 기능 구현
 
 ## 심유리
 
