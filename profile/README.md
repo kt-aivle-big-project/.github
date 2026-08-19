@@ -134,7 +134,7 @@
 
 # 📆 Project Management
 
-- Notion: 활용하여 일정·회의록·조사내용 등 관리
+- Notion: 일정·회의록·조사내용 등 관리
 - Git: 프로젝트 코드 관리 
 
 <br/>
