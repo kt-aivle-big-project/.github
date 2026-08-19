@@ -173,6 +173,25 @@
 
 ## 박병준
 
+### 창고 · 그래프 도메인
+
+- Warehouse / Zone / Node / Edge API 설계 및 구현
+- Warehouse 생성 및 Layout · Robot 데이터 연동
+- AI Planning에서 활용할 Node · Edge 기반 Warehouse Graph API 구현
+
+### Digital Twin Graph 동기화
+
+- PostgreSQL을 Warehouse 기준 데이터로 사용하는 Graph 구조 설계
+- `WarehouseGraphChangedEvent` 기반 Neo4j Graph Sync 구현
+- `AFTER_COMMIT` 이후 Warehouse 단위 Graph가 동기화되도록 구성
+- Warehouse Scope를 기준으로 사용자별 Graph 데이터 분리
+
+### 사용자별 실행 환경
+
+- Shared Warehouse 기반 USER / GUEST별 Personal Warehouse 생성
+- Zone · Node · Edge · Inventory · Robot · Scenario 등 실행 데이터 Deep Clone
+- `user_id` / `guest_session_id` 기반 Warehouse 소유권 검증
+- Shared Template 및 다른 사용자의 Warehouse 직접 실행 차단
 
 
 ## 김완수
