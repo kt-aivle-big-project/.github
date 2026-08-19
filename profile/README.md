@@ -130,6 +130,10 @@
 
 <!-- TODO: 아키텍처 이미지 (편집기에 드래그해서 업로드) -->
 
+<img width="760" height="509" alt="아키텍처" src="https://github.com/user-attachments/assets/8c264ebc-318e-4609-a6e1-0d192b040ea8" />
+<img width="527" height="341" alt="아키텍처 정의서" src="https://github.com/user-attachments/assets/c5a55f66-17ea-4205-9f75-e1a8107d657e" />
+
+
 <br/>
 
 # 🔀 서비스 플로우
